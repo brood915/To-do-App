@@ -1,15 +1,10 @@
-# ReactJS Boilerplate with webpack 2
+# To-do App
 
 ```
-ES6
-React
-SASS/SCSS
-CSS Modules
-html-webpack-plugins
-react-router
-fetch-jsonp
-prop-types
-Autoprefixer with Postcss-loader
+My first Redux Project.
+Allows users to add a task and mark it as complete or active.
+Can filter the tasks so users can see only either complete/active tasks.
+Used local storage to allow users to save the tasks.
 ```
 
 
